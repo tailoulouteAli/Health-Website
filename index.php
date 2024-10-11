@@ -9,6 +9,7 @@
 </head>
 <body >
      <h1 class="font-bold text-yellow-900">Learning PHP</h1>
+     <h2 class="font-serif text-red-700 text-center">Mon Example</h2>
    <div class="container mx-auto">
       <?php 
     include "header.php";
