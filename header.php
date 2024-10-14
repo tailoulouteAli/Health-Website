@@ -10,11 +10,11 @@
 </head>
 <body>
     <nav>
-        <ul>
+        <ul class="flex space-x-8 ">
                         <li class="font-mono text-green-400" >Accueil</li>
-                        <li class="font-mono text-green-400">Programme</li>
-                        <li class="font-mono text-green-400">Reference</li>
-                        <li class="font-mono text-green-400">Paramètres</li>
+                        <li class="font-mono text-green-500">Programme</li>
+                        <li class="font-mono text-green-600">Reference</li>
+                        <li class="font-mono text-green-700">Paramètres</li>
         </ul>
     </nav>
 </body>
