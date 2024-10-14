@@ -10,7 +10,7 @@
 </head>
 <body>
 <div >
-        <p class="text-center">'Tous les droits sont réservés'</p>
+        <p class=" font-mono text-center text-red-600">'Tous les droits sont réservés'</p>
     </div>
 </body>
 </html>
